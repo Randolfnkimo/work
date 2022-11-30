@@ -26,3 +26,6 @@ int foo(){
 int foo1(){
 	return 0;
 }
+int foo2(){
+	return 0;
+}
