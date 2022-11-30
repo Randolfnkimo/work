@@ -18,4 +18,7 @@ void affiche(Image I){
 		std::cout << std::endl;
 	} 
 }
-void foo() {}
+
+int foo(){
+	return 0;
+}
